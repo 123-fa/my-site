@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/123-fa/my-site/static/css/main.1cafa257.css",
+    "main.js": "/123-fa/my-site/static/js/main.cb9a420a.js",
+    "index.html": "/123-fa/my-site/index.html",
+    "main.1cafa257.css.map": "/123-fa/my-site/static/css/main.1cafa257.css.map",
+    "main.cb9a420a.js.map": "/123-fa/my-site/static/js/main.cb9a420a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cafa257.css",
+    "static/js/main.cb9a420a.js"
+  ]
+}
